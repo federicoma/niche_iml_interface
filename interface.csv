@@ -1,0 +1,80 @@
+INSTRUMENT;TYPE;OBJECT;label;style;v_model;filled;disabled;items
+Equity;Buy;TextField;Ticker Bloomberg;"width: 50%; opacity: 0.7";;0;0;
+Equity;Buy;TextField;ISIN;"width: 100%; opacity: 0.7";;1;1;
+Equity;Buy;TextField;Name;"width: 100%; opacity: 0.8";;1;1;
+Equity;Buy;TextField;Px Last;"width: 50%; opacity: 0.7";;1;1;
+Equity;Buy;TextField;Currency;"width: 50%; opacity: 0.7";;1;1;
+Equity;Buy;TextField;Cross;"width: 50%; opacity: 0.7";;1;1;
+Equity;Buy;TextField;App.cross;"width: 50%; opacity: 0.7";;1;1;
+Equity;Buy;TextField;Price Euro;"width: 50%; opacity: 0.7";;1;1;
+Equity;Buy;TextField;Quantity;"width: 50%; opacity: 0.7";0;0;0;
+Equity;Buy;TextField;Cash-out euro;"width: 50%; opacity: 0.7";;1;1;
+Equity;Buy;TextField;Trade as a % NAV;"width: 50%; opacity: 0.7";;1;1;
+Equity;Buy;Select;Broker;"width: 50%; opacity: 0.7";;;;Not specified,Equita Sim,DBS Vickers,Samsung Securities,GMSA,Tavira Securities,BOFAMLY,IMI,
+Equity;Buy;Select;To work % volume;"width: 50%; opacity: 0.7";;;;1/3,1/5,1/7
+Fund;Buy;TextField;ISIN;"width: 100%; opacity: 0.7";;0;0;
+Fund;Buy;TextField;Px Last;"width: 50%; opacity: 0.7";;1;1;
+Fund;Buy;TextField;Currency;"width: 50%; opacity: 0.7";;1;1;
+Fund;Buy;TextField;Cross;"width: 50%; opacity: 0.7";;1;1;
+Fund;Buy;TextField;App.cross;"width: 50%; opacity: 0.7";;1;1;
+Fund;Buy;TextField;Quantity;"width: 50%; opacity: 0.7";0;0;0;
+Fund;Buy;TextField;Cash-out euro;"width: 50%; opacity: 0.7";;1;1;
+Fund;Buy;TextField;Trade as a % NAV;"width: 50%; opacity: 0.7";;1;1;
+Fund;Buy;Select;Broker;"width: 50%; opacity: 0.7";;;;Not specified,Equita Sim,DBS Vickers,Samsung Securities,GMSA,Tavira Securities,BOFAMLY,IMI,
+Bond;Buy;TextField;ISIN;"width: 100%; opacity: 0.7";;0;0;
+Bond;Buy;TextField;Px Last;"width: 50%; opacity: 0.7";;1;1;
+Bond;Buy;TextField;Currency;"width: 50%; opacity: 0.7";;1;1;
+Bond;Buy;TextField;Cross;"width: 50%; opacity: 0.7";;1;1;
+Bond;Buy;TextField;App.cross;"width: 50%; opacity: 0.7";;1;1;
+Bond;Buy;TextField;Mininum Piece;"width: 50%; opacity: 0.8";;1;1;
+Bond;Buy;TextField;Quantity;"width: 50%; opacity: 0.7";0;0;0;
+Bond;Buy;TextField;Market Value Local Currency;"width: 50%; opacity: 0.8";;1;1;
+Bond;Buy;TextField;Days Acc;"width: 50%; opacity: 0.9";;1;1;
+Bond;Buy;TextField;Interest Accr.;"width: 50%; opacity: 0.10";;1;1;
+Bond;Buy;TextField;Accrued;"width: 50%; opacity: 0.11";;1;1;
+Bond;Buy;Select;Broker;"width: 50%; opacity: 0.7";;;;Not specified,Equita Sim,DBS Vickers,Samsung Securities,GMSA,Tavira Securities,BOFAMLY,IMI,
+Bond;Buy;TextField;Cash-out euro;"width: 50%; opacity: 0.7";;1;1;
+Bond;Buy;TextField;Trade as a % NAV;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;Ticker Bloomberg;"width: 50%; opacity: 0.7";;0;0;
+Equity;Sell;TextField;ISIN;"width: 100%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;Name;"width: 100%; opacity: 0.8";;1;1;
+Equity;Sell;TextField;Px Last;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;Currency;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;Cross;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;App.cross;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;Price Euro;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;Quantity;"width: 50%; opacity: 0.7";0;0;0;
+Equity;Sell;TextField;Total existing position;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;% of the position to be sold;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;Cash-in euro;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;TextField;Trade as a % NAV;"width: 50%; opacity: 0.7";;1;1;
+Equity;Sell;Select;Broker;"width: 50%; opacity: 0.7";;;;Not specified,Equita Sim,DBS Vickers,Samsung Securities,GMSA,Tavira Securities,BOFAMLY,IMI,
+Equity;Sell;Select;To work % volume;"width: 50%; opacity: 0.7";;;;1/3,1/5,1/7
+Fund;Sell;TextField;ISIN;"width: 100%; opacity: 0.7";;0;0;
+Fund;Sell;TextField;Name;"width: 100%; opacity: 0.7";;1;1;
+Fund;Sell;TextField;Px Last;"width: 50%; opacity: 0.7";;1;1;
+Fund;Sell;TextField;Currency;"width: 50%; opacity: 0.7";;1;1;
+Fund;Sell;TextField;Cross;"width: 50%; opacity: 0.7";;1;1;
+Fund;Sell;TextField;App.cross;"width: 50%; opacity: 0.7";;1;1;
+Fund;Sell;TextField;Total existing position;"width: 50%; opacity: 0.7";;1;1;
+Fund;Sell;TextField;% of the position to be sold;"width: 50%; opacity: 0.7";;0;0;
+Fund;Sell;TextField;Quantity;"width: 50%; opacity: 0.7";;1;1;
+Fund;Sell;TextField;Cash-in euro;"width: 50%; opacity: 0.7";;1;1;
+Fund;Sell;TextField;Trade as a % NAV;"width: 50%; opacity: 0.7";;1;1;
+Fund;Sell;Select;Broker;"width: 50%; opacity: 0.7";;;;Not specified,Equita Sim,DBS Vickers,Samsung Securities,GMSA,Tavira Securities,BOFAMLY,IMI,
+Bond;Sell;TextField;ISIN;"width: 100%; opacity: 0.7";;0;0;
+Bond;Sell;TextField;Px Last;"width: 50%; opacity: 0.7";;1;1;
+Bond;Sell;TextField;Currency;"width: 50%; opacity: 0.7";;1;1;
+Bond;Sell;TextField;Cross;"width: 50%; opacity: 0.7";;1;1;
+Bond;Sell;TextField;App.cross;"width: 50%; opacity: 0.7";;1;1;
+Bond;Sell;TextField;Total existing position;"width: 50%; opacity: 0.7";;1;1;
+Bond;Sell;TextField;% of the position to be sold;"width: 50%; opacity: 0.7";;0;0;
+Bond;Sell;TextField;Mininum Piece;"width: 50%; opacity: 0.8";;1;1;
+Bond;Sell;TextField;Quantity;"width: 50%; opacity: 0.7";;1;1;
+Bond;Sell;TextField;Market Value Local Currency;"width: 50%; opacity: 0.8";;1;1;
+Bond;Sell;TextField;Days Acc;"width: 50%; opacity: 0.9";;1;1;
+Bond;Sell;TextField;Interest Accr.;"width: 50%; opacity: 0.10";;1;1;
+Bond;Sell;TextField;Accrued;"width: 50%; opacity: 0.11";;1;1;
+Bond;Sell;Select;Broker;"width: 50%; opacity: 0.7";;;;Not specified,Equita Sim,DBS Vickers,Samsung Securities,GMSA,Tavira Securities,BOFAMLY,IMI,
+Bond;Sell;TextField;Cash-in euro;"width: 50%; opacity: 0.7";;1;1;
+Bond;Sell;TextField;Trade as a % NAV;"width: 50%; opacity: 0.7";;1;1;
