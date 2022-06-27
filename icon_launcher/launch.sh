@@ -1,3 +1,3 @@
 #!/bin/bash
-voila es.ipynb
+voila ../es.ipynb
 exit 0
