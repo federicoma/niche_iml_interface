@@ -127,6 +127,7 @@ interface = [
         'label': 'Broker',
         'style': 'width: 50%; opacity: 0.7',
         'v_model': None,
+        'disabled': False,
         'items': [
             'Not specified',
             'Equita Sim',
@@ -147,6 +148,7 @@ interface = [
         'label': 'To work % volume',
         'style': 'width: 50%; opacity: 0.7',
         'v_model': None,
+        'disabled': False,
         'items': [
             '1/3',
             '1/5',
@@ -249,6 +251,7 @@ interface = [
         'label': 'Broker',
         'style': 'width: 50%; opacity: 0.7',
         'v_model': None,
+        'disabled': False,
         'items': [
             'Not specified',
             'Equita Sim',
@@ -390,6 +393,7 @@ interface = [
         'label': 'Broker',
         'style': 'width: 50%; opacity: 0.7',
         'v_model': None,
+        'disabled': False,
         'items': [
             'Not specified',
             'Equita Sim',
@@ -574,6 +578,7 @@ interface = [
         'label': 'Broker',
         'style': 'width: 50%; opacity: 0.7',
         'v_model': None,
+        'disabled': False,
         'items': [
             'Not specified',
             'Equita Sim',
@@ -593,6 +598,7 @@ interface = [
         'label': 'To work % volume',
         'style': 'width: 50%; opacity: 0.7',
         'v_model': None,
+        'disabled': False,
         'items': [
             '1/3',
             '1/5',
@@ -731,6 +737,7 @@ interface = [
         'label': 'Broker',
         'style': 'width: 50%; opacity: 0.7',
         'v_model': None,
+        'disabled': False,
         'items': [
             'Not specified',
             'Equita Sim',
@@ -882,6 +889,7 @@ interface = [
         'label': 'Broker',
         'style': 'width: 50%; opacity: 0.7',
         'v_model': None,
+        'disabled': False,
         'items': [
             'Not specified',
             'Equita Sim',
