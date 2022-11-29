@@ -135,10 +135,16 @@ interface = [
             'Samsung Securities',
             'GMSA',
             'Tavira Securities',
+            'Inversis',
             'BOFAMLY',
+            'CACEIS',
             'IMI',
+            'Visor',
+            'Daiwa',
+            'Mediobanca',
+            'Investis'
         ],
-        'cell': 'C77'
+        'cell': 'C85'
     }
     ,
     {
@@ -150,11 +156,13 @@ interface = [
         'v_model': None,
         'disabled': False,
         'items': [
-            '1/3',
-            '1/5',
-            '1/7'
+            '5%',
+            '10%',
+            "20%",
+            "Firm Limit"
+
         ],
-        'cell': 'C73'
+        'cell': 'C81'
     },
     {
         'INSTRUMENT': 'Fund',
@@ -448,7 +456,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'B20'
+        'cell': 'B21'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -459,7 +467,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C20'
+        'cell': 'C21'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -470,7 +478,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C27'
+        'cell': 'C29'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -481,7 +489,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C28'  
+        'cell': 'C30'  
     },
     {
         'INSTRUMENT': 'Equity',
@@ -492,7 +500,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C29'
+        'cell': 'C31'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -503,7 +511,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C30'
+        'cell': 'C32'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -514,7 +522,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C31'
+        'cell': 'C33'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -525,7 +533,7 @@ interface = [
         'v_model': 0.0,
         'filled': False,
         'disabled': False,
-        'cell': 'C24'
+        'cell': 'C27'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -536,7 +544,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C22'
+        'cell': 'C23'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -547,7 +555,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C23'
+        'cell': 'C25'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -558,7 +566,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C34'
+        'cell': 'C36'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -569,7 +577,7 @@ interface = [
         'v_model': None,
         'filled': True,
         'disabled': True,
-        'cell': 'C35'
+        'cell': 'C37'
     },
     {
         'INSTRUMENT': 'Equity',
@@ -586,10 +594,16 @@ interface = [
             'Samsung Securities',
             'GMSA',
             'Tavira Securities',
+            'Inversis',
             'BOFAMLY',
+            'CACEIS',
             'IMI',
+            'Visor',
+            'Daiwa',
+            'Mediobanca',
+            'Investis'
         ],
-        'cell': 'C55'        
+        'cell': 'C57'        
     },
     {
         'INSTRUMENT': 'Equity',
@@ -600,11 +614,12 @@ interface = [
         'v_model': None,
         'disabled': False,
         'items': [
-            '1/3',
-            '1/5',
-            '1/7'
+            '5%',
+            '10%',
+            "20%",
+            "Firm Limit"
         ],
-        'cell': 'C52'
+        'cell': 'C54'
     },
     {
 
